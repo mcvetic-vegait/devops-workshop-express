@@ -1,6 +1,6 @@
 const express = require('express');
 
-const PORT = 8888;
+const PORT = 9000;
 const HOST = '0.0.0.0';
 const MONGO_URL = 'mongodb://mongo/devops-workshop-express';// Url to the mongo container and test-express database.
 
