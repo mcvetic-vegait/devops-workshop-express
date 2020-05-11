@@ -9,7 +9,7 @@ mongoose.connect(MONGO_URL, { useNewUrlParser: true })
     .then(() => {
         const app = express();
 
-        app.get('/', (request, response) => response.send('Hello World!'));
+        app.get('/', (request, response) => response.send(('DevOps').split('').reverse().join('')));
 
         app.listen(PORT, HOST);
 
