@@ -1,5 +1,5 @@
 {
-    "name": "devops-web-app",
+    "name": "docker-web-app",
     "version": "1.0.0",
     "description": "Node.js on Docker",
     "author": "Milan Cvetic m.cvetic@vegaitsourcing.rs",
